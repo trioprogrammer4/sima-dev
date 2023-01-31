@@ -32,6 +32,7 @@
 		"source": "https://github.com/chriskacerguis/codeigniter-restserver"
 	},
 	"config": {
+		"platform-check": false,
 		"allow-plugins": {
 			"endroid/installer": true
 		}
